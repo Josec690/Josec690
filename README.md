@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Claudiley</h1>
-<h3 align="center">The art of developing something is magical.</h3>
+<h3 align="center">The art of Developing something is magical.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
