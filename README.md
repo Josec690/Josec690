@@ -102,7 +102,7 @@
       <a href="https://www.mongodb.com/">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="30" height="30"/>
       </a>
-      <br>Mongo
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/">
