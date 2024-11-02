@@ -204,7 +204,17 @@
       <br>XXX
     </td> -->  
 </table><br>
-<!--
+
 ### Statistic:
--->
+
+<div>
+  <a href="https://github.com/Josec690">
+    <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=Josec690&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Josec690">
+    <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josec690&layout=compact&card_width=280&border_radius=3&langs_count=20&theme=gotham" />
+  </a>
+</div> 
+  
+<!-- -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
