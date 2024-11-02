@@ -9,32 +9,26 @@
 <p align="left">
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/joseclaudileydasilva)<br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josec690)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseclaudiley/)<br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511980735936)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseclaudiley/)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josec690)<br>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joseclaudileydasilva@yahoo.com.br)<br>
-
+<br>
 ### Languages and Tools:
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://appwrite.io/">
-        <img src="https://skillicons.dev/icons?i=appwrite" alt="icon" width="30" height="30"/>
+      <a href="https://www.autodesk.com/products/autocad/overview">
+        <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="30" height="30"/>
       </a>
-      <br>Appwrite
+      <br>AutoCAD
     </td>
     <td align="center" width="96">
-      <a href="https://www.arduino.cc/">
-        <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="30" height="30"/>
+      <a href="https://azure.microsoft.com">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="30" height="30"/>
       </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.gnu.org/software/bash/">
-        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Bash
+      <br>Azure
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/docs/Web/CSS">
@@ -43,16 +37,10 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="https://www.digitalocean.com/">
-        <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" alt="icon" width="30" height="30"/>
+      <a href="https://www.eclipse.org">
+        <img src="https://skillicons.dev/icons?i=eclipse" alt="icon" width="30" height="30"/>
       </a>
-      <br>DO
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Docker
+      <br>Eclipse
     </td>
     <td align="center" width="96">
       <a href="https://expressjs.com/">
@@ -61,10 +49,16 @@
       <br>Express
     </td>
     <td align="center" width="96">
-      <a href="https://cloud.google.com/">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="30" height="30"/>
+      <a href="https://www.figma.com">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="30" height="30"/>
       </a>
-      <br>GCP
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/">
@@ -72,13 +66,19 @@
       </a>
       <br>Git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="30" height="30"/>
       </a>
       <br>Github
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://mail.google.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Gmail
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/docs/Web/HTML">
@@ -87,28 +87,16 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="https://insomnia.rest/">
-        <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="icon" width="30" height="30"/>
+      <a href="https://www.java.com">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="30" height="30"/>
       </a>
-      <br>Insomnia
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="https://www.javascript.com/">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="30" height="30"/>
       </a>
       <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mapbox.com/">
-        <img src="https://seeklogo.com/images/M/mapbox-logo-D6FDDD219C-seeklogo.com.png" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Mapbox
     </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
@@ -123,14 +111,6 @@
       <br>MySql
     </td>
     <td align="center" width="96">
-      <a href="https://www.nginx.com/">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="30" height="30"/>
       </a>
@@ -143,34 +123,24 @@
       <br>Nodemon
     </td>
     <td align="center" width="96">
-      <a href="https://www.oracle.com/">
-        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="icon" width="30" height="30"/>
+      <a href="https://www.notion.so">
+        <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="30" height="30"/>
       </a>
-      <br>Oracle
+      <br>Notion
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="icon" width="30" height="30"/>
+      <a href="https://www.npmjs.com">
+        <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="30" height="30"/>
       </a>
-      <br>Pandas
-    </td>
+      <br>NPM
+    </td>    
     <td align="center" width="96">
-      <a href="https://www.postgresql.org/">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="30" height="30"/>
+      <a href="https://docs.microsoft.com/powershell">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="30" height="30"/>
       </a>
-      <br>Postgres
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postman.com/">
-        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://plotly.com/">
-        <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Plotly
+      <br>PowerShell
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -184,14 +154,6 @@
       </a>
       <br>React
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://replit.com/">
-        <img src="https://skillicons.dev/icons?i=replit" alt="icon" width="30" height="30"/>
-      </a>
-      <br>Replit
-    </td>
     <td align="center" width="96">
       <a href="https://sequelize.org/">
         <img src="https://skillicons.dev/icons?i=sequelize" alt="icon" width="30" height="30"/>
@@ -199,16 +161,16 @@
       <br>Sequelize
     </td>
     <td align="center" width="96">
-      <a href="https://www.sqlite.org/index.html">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="30" height="30"/>
+      <a href="https://www.solidworks.com">
+        <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" alt="icon" width="30" height="30"/>
       </a>
-      <br>Sqlite
+      <br>SoliWorks
     </td>
     <td align="center" width="96">
-      <a href="https://ubuntu.com/">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="icon" width="30" height="30"/>
+      <a href="https://www.sublimetext.com">
+        <img src="https://skillicons.dev/icons?i=sublime" alt="icon" width="30" height="30"/>
       </a>
-      <br>Ubuntu
+      <br>Sublime
     </td>
     <td align="center" width="96">
       <a href="https://code.visualstudio.com/docs">
@@ -217,11 +179,12 @@
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/websockets/ws">
-        <img src="https://seeklogo.com/images/W/websocket-logo-91B815D333-seeklogo.com.png" alt="icon" width="30" height="30"/>
+      <a href="https://www.microsoft.com/windows">
+        <img src="https://skillicons.dev/icons?i=windows" alt="icon" width="30" height="30"/>
       </a>
-      <br>WS
+      <br>Windows
     </td>
+  </tr>      
     <!-- <td align="center" width="96">
       <a href="">
         <img src="" alt="icon" width="30" height="30"/>
@@ -239,10 +202,9 @@
         <img src="" alt="icon" width="30" height="30"/>
       </a>
       <br>XXX
-    </td> -->
-  </tr>
+    </td> -->  
 </table><br>
-
+<!--
 ### Statistic:
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
