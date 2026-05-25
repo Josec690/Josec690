@@ -143,19 +143,15 @@
     </td> -->  
 </table><br>
 
-### Statistic:
 
-<div>
-  <a href="https://github.com/Josec690">
-    <img height="180cm" align="left"
-      src="https://github-readme-stats.vercel.app/api?username=Josec690&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham&include_all_commits=true" />
-  </a>
+## 📈 Activity Graph
 
-  <a href="https://github.com/Josec690">
-    <img height="180cm" align="right"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josec690&layout=compact&card_width=280&border_radius=3&langs_count=20&theme=gotham" />
-  </a>
-</div>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josec690&theme=github-dark&hide_border=true&area=true)](https://github.com/Josec690)
+
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Josec690&theme=dark)](https://git.io/streak-stats)
   
 <!-- -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
