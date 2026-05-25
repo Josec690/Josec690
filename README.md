@@ -53,13 +53,7 @@
         <img src="https://skillicons.dev/icons?i=html" alt="icon" width="30" height="30"/>
       </a>
       <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.jetbrains.com/pt-br/idea/">
-        <img src="https://skillicons.dev/icons?i=intellij" alt="icon" width="30" height="30"/>
-      </a>
-      <br>IntelliJ
-    </td>
+    </td>    
     <td align="center" width="96">
       <a href="https://www.java.com">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="30" height="30"/>
@@ -76,7 +70,7 @@
       <a href="https://kotlinlang.org/">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="30" height="30"/>
       </a>
-      <br>Javascript
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
@@ -117,10 +111,10 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://reactnative.dev/">
-        <img src="https://skillicons.dev/icons?i=reactnative" alt="icon" width="30" height="30"/>
+      <a href="https://spring.io/">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="30" height="30"/>
       </a>
-      <br>React Native
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="https://www.sublimetext.com">
