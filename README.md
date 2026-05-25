@@ -55,6 +55,12 @@
       <br>HTML
     </td>
     <td align="center" width="96">
+      <a href="https://www.jetbrains.com/pt-br/idea/">
+        <img src="https://skillicons.dev/icons?i=intellij" alt="icon" width="30" height="30"/>
+      </a>
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
       <a href="https://www.java.com">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="30" height="30"/>
       </a>
@@ -63,6 +69,12 @@
     <td align="center" width="96">
       <a href="https://www.javascript.com/">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="https://kotlinlang.org/">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="30" height="30"/>
       </a>
       <br>Javascript
     </td>
@@ -97,13 +109,19 @@
         <img src="https://skillicons.dev/icons?i=py" alt="icon" width="30" height="30"/>
       </a>
       <br>Python
-    </td><!-- 
+    </td> 
     <td align="center" width="96">
       <a href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="30" height="30"/>
       </a>
       <br>React
-    </td>-->
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactnative.dev/">
+        <img src="https://skillicons.dev/icons?i=reactnative" alt="icon" width="30" height="30"/>
+      </a>
+      <br>React Native
+    </td>
     <td align="center" width="96">
       <a href="https://www.sublimetext.com">
         <img src="https://skillicons.dev/icons?i=sublime" alt="icon" width="30" height="30"/>
